@@ -3,7 +3,7 @@
 <body>
     <div class="container">
         <h1>AARON LORE</h1>
-        <p>that day, May 10 at 1 am in the morning I found a discrepancy in my brain, all of a sudden I thought I was Christopher Columbus. Forget the previous story, today I will start the forecasting project</p>
+        <p>The Aaron Rosmerian whose real name and origins remain unknow, was a indonesia adventurer with interest in science,physics,php, and the arts</p>
     </div>
 </body>
 </html>
